@@ -1,6 +1,6 @@
 # workout_application
-
-A new Flutter project.
+Mobile Prograaming Course at MIU Final Project 
+FitJourney Application
 
 ## Getting Started
 
